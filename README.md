@@ -45,6 +45,11 @@ Interactive Power BI dashboard includes:
 - Spending behavior visualizations
 - Subscription and discount impact analysis
 
+## 📊 Dashboard Preview
+
+### Overview Dashboard
+![Dashboard Overview](dashboard/dashboard1.png)
+
 ## 🛠️ Setup
 1. Clone repository:
 ```bash
