@@ -48,12 +48,12 @@ Interactive Power BI dashboard includes:
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard Overview](dashboard/dashboard1.png)
+![Dashboard Overview](dashboard_screenshot.jpg)
 
 ## 🛠️ Setup
 1. Clone repository:
 ```bash
-git clone <repo-link>
+git clone https://github.com/jai-kesarwani/Customer-Shopping-Behavior-Analysis
 ```
 
 2. Install dependencies:
